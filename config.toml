@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Kubeflow"
+title = "HyperDL"
 description = "Kubeflow makes deployment of ML Workflows on Kubernetes straightforward and automated"
 
 enableRobotsTXT = true
