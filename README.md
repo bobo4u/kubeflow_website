@@ -84,6 +84,7 @@ Follow the usual GitHub workflow of forking the repository on GitHub and then cl
 
     ```bash
     hugo server -D
+    hugo server -b "http://192.168.11.100:1313" -p 1314 --bind "0.0.0.0"
     ```
 
 5. You can access your website at [http://localhost:1313/](http://localhost:1313/)
